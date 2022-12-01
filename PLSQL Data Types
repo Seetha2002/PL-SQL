@@ -1,0 +1,10 @@
+In this chapter, we will discuss the Data Types in PL/SQL. The PL/SQL variables, constants and parameters must have a valid data type, which specifies a storage 
+format, constraints, and a valid range of values.
+
+Numeric : Numeric values on which arithmetic operations are performed.
+	
+Character : Alphanumeric values that represent single characters or strings of characters.
+
+Boolean :Logical values on which logical operations are performed.
+	
+Datetime :Dates and times.
